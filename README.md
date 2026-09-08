@@ -1,87 +1,126 @@
-# Hi 👋, I'm Pavan Raj N
+<div align="center">
 
-### Information Science and Engineering student at SJB Institute of Technology
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A0DAD,100:00FFFF&height=220&section=header&text=Pavan%20Raj%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Science%20%26%20Engineering%20Student&descAlignY=58&descSize=20" width="100%" alt="Pavan Raj N profile header"/>
 
-Interested in software development, cybersecurity, AI/ML, and problem solving. Currently strengthening programming fundamentals, building practical projects, and preparing for software engineering placements.
+<a href="https://github.com/Pavanrajn111">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FFF9&center=true&vCenter=true&width=600&lines=Software+Development+%7C+AI%2FML+%7C+Cybersecurity;Building+practical+projects+one+repo+at+a+time;Preparing+for+SDE+placements;Currently+leveling+up+DSA+%26+System+Design" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Pavanrajn111&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Pavanrajn111?label=Followers&style=for-the-badge&color=00FFFF&logo=github" alt="followers"/>
+
+</div>
+
+<br/>
+
+## ⚡ About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif3.gif" alt="coding gif"/>
+
+- 🎓 Information Science & Engineering student at **SJB Institute of Technology**
+- 🌱 Currently strengthening **Data Structures & Algorithms** and core programming fundamentals
+- 💻 Building practical full-stack and ML projects to prepare for **software engineering placements**
+- 🔐 Interested in **Software Development, Cybersecurity, and AI/ML**
+- ⚙️ Comfortable across the stack — from **React/Vite frontends** to **Flask/Node backends** to **ML inference APIs**
+- 📫 Reach me via the links at the bottom of this page
+
+<br clear="right"/>
 
 ---
 
-## About Me
+## 🛠️ Tech Stack
 
-I am an Information Science and Engineering student focused on developing strong fundamentals and practical software development skills.
+<div align="center">
 
-## Current Focus
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" alt="C, C++, Java, and Python" />
 
-| Focus area | Focus area |
-| --- | --- |
-| Data Structures and Algorithms | Programming fundamentals |
-| Software development | Practical projects |
-| Software engineering placement preparation | |
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Vite, and Tailwind CSS" />
 
-## Tech Stack
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express,fastapi&theme=dark" alt="Flask, Node.js, Express, and FastAPI" />
 
-### Languages
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql&theme=dark" alt="PostgreSQL, MongoDB, SQLite, and MySQL" />
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Git, GitHub, VS Code, Postman, and Figma" />
 
-### Frontend
+</div>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+---
 
-### Backend
+## 📊 GitHub Stats
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+<div align="center">
 
-### Databases
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pavanrajn111&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2" alt="Pavan Raj N GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanrajn111&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9&langs_count=8" alt="Most used programming languages" />
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<br/>
 
-### Tools
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavanrajn111&hide_border=true&background=0D1117&stroke=8A2BE2&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+</div>
 
-## Featured Projects
+---
 
-### CouponEx
+## 🏆 GitHub Trophies
 
-Full-stack marketplace application involving coupon trading and management, with an escrow-style purchase and settlement workflow.
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Pavanrajn111&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+</div>
 
-**Technologies:** React, Vite, Node.js, Express.js, MongoDB, JWT
+---
 
-### Monsoon Prediction / Monsoon Inference
+## 🚀 Featured Projects
 
-Machine-learning based monsoon prediction system involving regional prediction and an inference API.
+<div align="center">
 
-**Technologies:** Python, FastAPI, TensorFlow Lite, Machine Learning, REST API
+<a href="https://github.com/Pavanrajn111/CouponEx">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=CouponEx&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" alt="CouponEx repository" />
+</a>
+<a href="https://github.com/Pavanrajn111/Vantage-Employee">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Vantage-Employee&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" alt="Vantage Employee repository" />
+</a>
 
-### Vantage Employee Suite / HRMS
+<a href="https://github.com/Pavanrajn111/Vendor-Management-System-V2">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Vendor-Management-System-V2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" alt="Vendor Management System repository" />
+</a>
+<a href="https://github.com/Pavanrajn111/Medical">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Medical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" alt="Medical repository" />
+</a>
 
-Role-based employee management system with employee management, attendance, and leave-management functionality.
+</div>
 
-**Technologies:** React, Vite, Tailwind CSS, React Router
+> 💡 **Tip:** Each pinned card above pulls live from your repo — add a one-line `description` to each repo in GitHub settings (⚙️ next to the repo name) so these cards aren't blank. Also add a short README + screenshot/GIF inside CouponEx and Vantage Employee Suite — they're your strongest projects and deserve a proper showcase.
 
-## Currently Learning
-
-- Data Structures and Algorithms
-- Programming fundamentals
-- Practical software development
-
-## GitHub Activity / Statistics
-
-Live activity and contribution information are available on my [GitHub profile](https://github.com/Pavanrajn111). No manually calculated statistics are shown here.
-
-## Contribution Activity
-
-Contribution activity is available on my [GitHub profile](https://github.com/Pavanrajn111).
+---
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavanrajn111/Pavanrajn111/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavanrajn111/Pavanrajn111/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Pavanrajn111/Pavanrajn111/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Pavanrajn111/Pavanrajn111/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+</div>
 
-## Connect With Me
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pavanrajn111-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pavanrajn111)
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Pavanrajn111">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=100&section=footer" width="100%" alt=""/>
