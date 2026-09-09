@@ -8,8 +8,12 @@
 
 <br/>
 
+<a href="https://github.com/Pavanrajn111/Pavanrajn111">
 <img src="https://komarev.com/ghpvc/?username=Pavanrajn111&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
+</a>
+<a href="https://github.com/Pavanrajn111?tab=followers">
 <img src="https://img.shields.io/github/followers/Pavanrajn111?label=Followers&style=for-the-badge&color=00FFFF&logo=github" alt="followers"/>
+</a>
 
 </div>
 
@@ -58,8 +62,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pavanrajn111&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanrajn111&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pavanrajn111&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanrajn111&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
@@ -82,17 +86,17 @@
 <div align="center">
 
 <a href="https://github.com/Pavanrajn111/CouponEx">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=CouponEx&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400" />
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=CouponEx&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Pavanrajn111/Vantage-Employee">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Vantage-Employee&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400" />
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Vantage-Employee&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/Pavanrajn111/Vendor-Management-System-V2">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Vendor-Management-System-V2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400" />
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Vendor-Management-System-V2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Pavanrajn111/Medical">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Medical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400" />
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Medical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" />
 </a>
 
 </div>
