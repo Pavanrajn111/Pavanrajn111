@@ -60,27 +60,12 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+- [CouponEx](https://github.com/Pavanrajn111/CouponEx)
+- [Vantage-Employee](https://github.com/Pavanrajn111/Vantage-Employee)
+- [Vendor-Management-System-V2](https://github.com/Pavanrajn111/Vendor-Management-System-V2)
+- [Medical](https://github.com/Pavanrajn111/Medical)
 
-<a href="https://github.com/Pavanrajn111/CouponEx">
-  <img src="https://img.shields.io/badge/CouponEx-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="CouponEx" />
-</a>
-<a href="https://github.com/Pavanrajn111/Vantage-Employee">
-  <img src="https://img.shields.io/badge/Vantage%20Employee-Repository-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Vantage Employee" />
-</a>
-
-<br />
-
-<a href="https://github.com/Pavanrajn111/Vendor-Management-System-V2">
-  <img src="https://img.shields.io/badge/Vendor%20Management-Repository-FFA116?style=for-the-badge&logo=github&logoColor=black" alt="Vendor Management System V2" />
-</a>
-<a href="https://github.com/Pavanrajn111/Medical">
-  <img src="https://img.shields.io/badge/Medical-Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Medical" />
-</a>
-
-</div>
-
-> 💡 **Tip:** Add a short README and a screenshot or GIF inside your key repositories to give these project links a stronger visual showcase.
+---
 
 ---
 
