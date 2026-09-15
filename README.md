@@ -58,27 +58,29 @@
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Pavanrajn111/CouponEx">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=CouponEx&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" />
+  <img src="https://img.shields.io/badge/CouponEx-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="CouponEx" />
 </a>
 <a href="https://github.com/Pavanrajn111/Vantage-Employee">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Vantage-Employee&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" />
+  <img src="https://img.shields.io/badge/Vantage%20Employee-Repository-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Vantage Employee" />
 </a>
 
+<br />
+
 <a href="https://github.com/Pavanrajn111/Vendor-Management-System-V2">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Vendor-Management-System-V2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" />
+  <img src="https://img.shields.io/badge/Vendor%20Management-Repository-FFA116?style=for-the-badge&logo=github&logoColor=black" alt="Vendor Management System V2" />
 </a>
 <a href="https://github.com/Pavanrajn111/Medical">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanrajn111&repo=Medical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9" />
+  <img src="https://img.shields.io/badge/Medical-Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Medical" />
 </a>
 
 </div>
 
-> 💡 **Tip:** Each pinned card above pulls live from your repo — add a one-line `description` to each repo in GitHub settings (⚙️ next to the repo name) so these cards aren't blank. Also add a short README + screenshot/GIF inside CouponEx and Vantage Employee Suite — they're your strongest projects and deserve a proper showcase.
+> 💡 **Tip:** Add a short README and a screenshot or GIF inside your key repositories to give these project links a stronger visual showcase.
 
 ---
 
