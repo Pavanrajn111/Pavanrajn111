@@ -58,30 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pavanrajn111&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanrajn111&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Pavanrajn111&hide_border=true&background=0D1117&stroke=8A2BE2&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pavanrajn111&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
