@@ -56,29 +56,23 @@
 
 </div>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavanrajn111&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavanrajn111&theme=dark" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Pavanrajn111/CouponEx">
-  <img src="https://img.shields.io/badge/CouponEx-Coupon%20Management-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="CouponEx" />
-</a>
-<a href="https://github.com/Pavanrajn111/Vantage-Employee">
-  <img src="https://img.shields.io/badge/Vantage%20Employee-Employee%20System-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Vantage Employee" />
-</a>
-
-<br />
-
-<a href="https://github.com/Pavanrajn111/Vendor-Management-System-V2">
-  <img src="https://img.shields.io/badge/Vendor%20Management-Vendor%20Platform-FFA116?style=for-the-badge&logo=github&logoColor=black" alt="Vendor Management System V2" />
-</a>
-<a href="https://github.com/Pavanrajn111/Medical">
-  <img src="https://img.shields.io/badge/Medical-Medical%20System-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Medical" />
-</a>
-
-</div>
+| Project | Description | Tech Stack |
+|---|---|---|
+| [CouponEx](https://github.com/Pavanrajn111/CouponEx) | One-line description of what it does | Tech used |
+| [Vantage Employee](https://github.com/Pavanrajn111/Vantage-Employee) | One-line description of what it does | Tech used |
+| [Vendor Management System V2](https://github.com/Pavanrajn111/Vendor-Management-System-V2) | One-line description of what it does | Tech used |
+| [Medical](https://github.com/Pavanrajn111/Medical) | One-line description of what it does | Tech used |
 
 ---
 
