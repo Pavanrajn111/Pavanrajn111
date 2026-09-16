@@ -56,22 +56,14 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavanrajn111&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
----
-
-## 🚀 Featured Projects
+##  Featured Projects
 
 | **Project** | **Description** | **Tech Stack** |
 | --- | --- | --- |
-| [CouponEx](https://github.com/Pavanrajn111/CouponEx) | Peer-to-peer coupon marketplace with secure buying, selling, wallet, escrow, and transaction management workflows. | React, Vite, Node.js, Express.js, MongoDB, JWT, SQLite |
-| [Vantage Employee](https://github.com/Pavanrajn111/Vantage-Employee) | Full-stack HRMS interface for employee and admin workflows including attendance, leave, payroll, employee management, and analytics. | React, Vite, Tailwind CSS, JavaScript, React Context, LocalStorage, IndexedDB |
-| [Vendor Management System V2](https://github.com/Pavanrajn111/Vendor-Management-System-V2) | Secure role-based vendor marketplace for managing vendors, products, orders, payments, and customer reviews. | Python, Flask, SQLAlchemy, SQLite, HTML, CSS, Bootstrap, Flask-Login, Flask-WTF, Docker |
-| [Medical](https://github.com/Pavanrajn111/Medical) | Android-based rural medical triage assistant combining AI-supported clinical guidance, medical image analysis, severity classification, and diagnostic reporting. | Kotlin, Android, Jetpack Compose, TensorFlow Lite, Google Gemini AI, CameraX, DataStore, WorkManager |
+| [💳 CouponEx](https://github.com/Pavanrajn111/CouponEx) | Peer-to-peer coupon marketplace with secure buying, selling, wallet, escrow, and transaction management workflows. | React, Vite, Node.js, Express.js, MongoDB, JWT, SQLite |
+| [👥 Vantage Employee](https://github.com/Pavanrajn111/Vantage-Employee) | Full-stack HRMS interface for employee and admin workflows including attendance, leave, payroll, employee management, and analytics. | React, Vite, Tailwind CSS, JavaScript, React Context, LocalStorage, IndexedDB |
+| [🏪 Vendor Management System V2](https://github.com/Pavanrajn111/Vendor-Management-System-V2) | Secure role-based vendor marketplace for managing vendors, products, orders, payments, and customer reviews. | Python, Flask, SQLAlchemy, SQLite, HTML, CSS, Bootstrap, Flask-Login, Flask-WTF, Docker |
+| [🩺 Medical](https://github.com/Pavanrajn111/Medical) | Android-based rural medical triage assistant combining AI-supported clinical guidance, medical image analysis, severity classification, and diagnostic reporting. | Kotlin, Android, Jetpack Compose, TensorFlow Lite, Google Gemini AI, CameraX, DataStore, WorkManager |
 
 ---
 
