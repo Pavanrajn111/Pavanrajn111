@@ -87,7 +87,7 @@
 <a href="https://www.linkedin.com/in/pavanrajn">
 <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
-<a href="https://leetcode.com/u/4cIME3fj83/">
+<a href="https://leetcode.com/u/Pavanrajn111/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://github.com/Pavanrajn111">
