@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0221"/>
+      <stop offset="50%" stop-color="#2d0a5e"/>
+      <stop offset="100%" stop-color="#05445e"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="20s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c77dff"><animate attributeName="stop-color" values="#c77dff;#00fff9;#c77dff" dur="6s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#00fff9"><animate attributeName="stop-color" values="#00fff9;#c77dff;#00fff9" dur="6s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="clip"><rect width="1000" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <!-- floating orbs -->
+    <g fill="#00fff9" opacity=".25">
+      <circle cx="120" cy="60" r="4"><animate attributeName="cy" values="60;200;60" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="300" cy="200" r="3"><animate attributeName="cy" values="200;40;200" dur="9s" repeatCount="indefinite"/></circle>
+      <circle cx="520" cy="50" r="5"><animate attributeName="cy" values="50;220;50" dur="11s" repeatCount="indefinite"/></circle>
+      <circle cx="720" cy="210" r="3"><animate attributeName="cy" values="210;30;210" dur="8s" repeatCount="indefinite"/></circle>
+      <circle cx="900" cy="80" r="4"><animate attributeName="cy" values="80;210;80" dur="10s" repeatCount="indefinite"/></circle>
+    </g>
+    <g fill="#c77dff" opacity=".3">
+      <circle cx="210" cy="140" r="2.5"><animate attributeName="cx" values="210;260;210" dur="6s" repeatCount="indefinite"/></circle>
+      <circle cx="610" cy="120" r="2.5"><animate attributeName="cx" values="610;560;610" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="820" cy="170" r="2.5"><animate attributeName="cx" values="820;870;820" dur="5s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- waves -->
+    <path fill="#8A2BE2" opacity=".35" d="M0 200 Q250 150 500 200 T1000 200 V260 H0Z">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 200 Q250 150 500 200 T1000 200 V260 H0Z;M0 200 Q250 250 500 200 T1000 200 V260 H0Z;M0 200 Q250 150 500 200 T1000 200 V260 H0Z"/>
+    </path>
+    <path fill="#00fff9" opacity=".25" d="M0 225 Q250 185 500 225 T1000 225 V260 H0Z">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 225 Q250 185 500 225 T1000 225 V260 H0Z;M0 225 Q250 265 500 225 T1000 225 V260 H0Z;M0 225 Q250 185 500 225 T1000 225 V260 H0Z"/>
+    </path>
+    <!-- title -->
+    <text x="500" y="120" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="68" font-weight="800" fill="url(#title)" filter="url(#glow)">Pavan Raj N
+      <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
+    </text>
+    <text x="500" y="163" text-anchor="middle" font-family="'Courier New',monospace" font-size="20" fill="#e0e0ff" letter-spacing="3">INFORMATION SCIENCE &amp; ENGINEERING STUDENT
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;.4;1" dur="2.5s" fill="freeze"/>
+    </text>
+    <text x="500" y="192" text-anchor="middle" font-family="'Courier New',monospace" font-size="15" fill="#00fff9" opacity=".9">&lt;/&gt; SDE  •  AI/ML  •  Cybersecurity
+      <animate attributeName="opacity" values="0;0;.9" keyTimes="0;.6;1" dur="3s" fill="freeze"/>
+    </text>
+  </g>
+  <rect x="1" y="1" width="998" height="258" rx="18" fill="none" stroke="#00fff9" stroke-opacity=".5" stroke-width="2" stroke-dasharray="40 20">
+    <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
