@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="190" height="28" viewBox="0 0 190 28" role="img" aria-label="Followers: Follow">
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="28" viewBox="0 0 144 28" role="img" aria-label="Followers: 3">
   <rect width="110" height="28" fill="#555555"/>
-  <rect x="110" width="80" height="28" fill="#00FFFF"/>
+  <rect x="110" width="34" height="28" fill="#00FFFF"/>
   <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" letter-spacing="1" text-anchor="middle">
     <text x="55" y="18" fill="#ffffff">FOLLOWERS</text>
-    <text x="150" y="18" fill="#000000">FOLLOW</text>
+    <text x="127" y="18" fill="#000000">3</text>
   </g>
 </svg>
