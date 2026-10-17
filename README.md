@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/Pavanrajn111/Pavanrajn111">
-  <img src="https://komarev.com/ghpvc/?username=Pavanrajn111&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Pavanrajn111&amp;label=Profile%20Views&amp;color=8A2BE2&amp;style=for-the-badge" alt="profile views"/>
 </a>
 <a href="https://github.com/Pavanrajn111?tab=followers">
   <img src="./assets/followers.svg" alt="followers" height="28"/>
