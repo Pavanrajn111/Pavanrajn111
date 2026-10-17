@@ -1,0 +1,54 @@
+name: Update Followers Badge
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}      # run manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate followers badge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          COUNT=$(gh api "users/${{ github.repository_owner }}" --jq '.followers')
+          case "$COUNT" in
+            ''|*[!0-9]*) echo "Could not read follower count: $COUNT"; exit 1 ;;
+          esac
+          RIGHT_W=$(( 24 + ${#COUNT} * 10 ))
+          TOTAL_W=$(( 110 + RIGHT_W ))
+          TEXT_X=$(( 110 + RIGHT_W / 2 ))
+          mkdir -p assets
+          cat > assets/followers.svg <<SVG
+          <svg xmlns="http://www.w3.org/2000/svg" width="${TOTAL_W}" height="28" viewBox="0 0 ${TOTAL_W} 28" role="img" aria-label="Followers: ${COUNT}">
+            <rect width="110" height="28" fill="#555555"/>
+            <rect x="110" width="${RIGHT_W}" height="28" fill="#00FFFF"/>
+            <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" letter-spacing="1" text-anchor="middle">
+              <text x="55" y="18" fill="#ffffff">FOLLOWERS</text>
+              <text x="${TEXT_X}" y="18" fill="#000000">${COUNT}</text>
+            </g>
+          </svg>
+          SVG
+          sed -i 's/^          //' assets/followers.svg
+
+      - name: Commit badge if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/followers.svg
+          if git diff --cached --quiet; then
+            echo "No change"
+          else
+            git commit -m "chore: update followers badge"
+            git push
+          fi

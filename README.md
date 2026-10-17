@@ -9,10 +9,10 @@
 <br/>
 
 <a href="https://github.com/Pavanrajn111/Pavanrajn111">
-  <img src="https://komarev.com/ghpvc/?username=Pavanrajn111&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
+  <img src="https://hits.sh/github.com/Pavanrajn111/Pavanrajn111.svg?style=for-the-badge&label=Profile%20Views&color=8A2BE2&labelColor=555555" alt="profile views" height="28"/>
 </a>
 <a href="https://github.com/Pavanrajn111?tab=followers">
-  <img src="https://img.shields.io/github/followers/Pavanrajn111?label=Followers&style=for-the-badge&color=00FFFF&logo=github&logoColor=black" alt="followers"/>
+  <img src="./assets/followers.svg" alt="followers" height="28"/>
 </a>
 <a href="https://github.com/Pavanrajn111?tab=repositories">
   <img src="https://img.shields.io/github/stars/Pavanrajn111?label=Stars&style=for-the-badge&color=8A2BE2&logo=github" alt="stars"/>
