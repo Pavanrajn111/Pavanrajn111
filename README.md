@@ -6,16 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFF9&center=true&vCenter=true&width=800&height=45&lines=Hi+%F0%9F%91%8B+I'm+Pavan+Raj+N;Software+Development+%2B+AI%2FML+%2B+Cybersecurity;Building+practical+projects+one+repo+at+a+time;Preparing+for+SDE+placements+%F0%9F%9A%80;Currently+leveling+up+DSA+and+System+Design" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<a href="https://github.com/Pavanrajn111?tab=followers">
-  <img src="./assets/followers.svg" alt="followers" height="28"/>
-</a>
-&nbsp;
-<a href="https://github.com/Pavanrajn111?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Pavanrajn111?label=Stars&amp;style=for-the-badge&amp;color=8A2BE2&amp;logo=github" alt="stars" height="28"/>
-</a>
-
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
