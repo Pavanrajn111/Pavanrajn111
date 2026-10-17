@@ -8,14 +8,12 @@
 
 <br/>
 
-<a href="https://github.com/Pavanrajn111/Pavanrajn111">
-  <img src="https://komarev.com/ghpvc/?username=Pavanrajn111&amp;label=Profile%20Views&amp;color=8A2BE2&amp;style=for-the-badge" alt="profile views"/>
-</a>
 <a href="https://github.com/Pavanrajn111?tab=followers">
   <img src="./assets/followers.svg" alt="followers" height="28"/>
 </a>
+&nbsp;
 <a href="https://github.com/Pavanrajn111?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Pavanrajn111?label=Stars&style=for-the-badge&color=8A2BE2&logo=github" alt="stars"/>
+  <img src="https://img.shields.io/github/stars/Pavanrajn111?label=Stars&amp;style=for-the-badge&amp;color=8A2BE2&amp;logo=github" alt="stars" height="28"/>
 </a>
 
 </div>
