@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/Pavanrajn111/Pavanrajn111">
-  <img src="https://hits.sh/github.com/Pavanrajn111/Pavanrajn111.svg?style=for-the-badge&label=Profile%20Views&color=8A2BE2&labelColor=555555" alt="profile views" height="28"/>
+  <img src="https://komarev.com/ghpvc/?username=Pavanrajn111&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
 </a>
 <a href="https://github.com/Pavanrajn111?tab=followers">
   <img src="./assets/followers.svg" alt="followers" height="28"/>
@@ -154,7 +154,9 @@ Android rural medical triage assistant with AI-supported guidance, medical image
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavanrajn111&theme=react-dark&hide_border=true&bg_color=0d0221&color=00fff9&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2" alt="Activity graph" width="100%"/>
+<p>GitHub Stats counts commits, while GitHub's contribution chart also includes pull requests, issues, and reviews, so the totals can differ.</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavanrajn111&theme=radical" alt="GitHub activity and contribution summary" width="100%"/>
 
 </div>
 
